@@ -27,6 +27,246 @@
         {
             "key": "RightTop",
             "value": "{\"x\":0.8880000114440918,\"y\":0.6740000247955322}"
+        },
+        {
+            "key": "Osc_defaultRemoteHost",
+            "value": "{\"value\":\"localhost\"}"
+        },
+        {
+            "key": "Osc_defaultRemotePort",
+            "value": "{\"value\":8888}"
+        },
+        {
+            "key": "Osc_localPort",
+            "value": "{\"value\":8888}"
+        },
+        {
+            "key": "TestPatternBlend",
+            "value": "{\"value\":0.0}"
+        },
+        {
+            "key": "Osc_limitReceiveBuffer",
+            "value": "{\"value\":30}"
+        },
+        {
+            "key": "InteractiveRange",
+            "value": "{\"value\":1.0}"
+        },
+        {
+            "key": "TrackerDebug",
+            "value": "{\"value\":false}"
+        },
+        {
+            "key": "MaxSpeed",
+            "value": "{\"value\":3.0}"
+        },
+        {
+            "key": "SpeedPower",
+            "value": "{\"value\":2.0}"
+        },
+        {
+            "key": "VelocityBlend",
+            "value": "{\"value\":0.949999988079071}"
+        },
+        {
+            "key": "ForcePower",
+            "value": "{\"value\":300.0}"
+        },
+        {
+            "key": "ColorBlend",
+            "value": "{\"value\":0.5}"
+        },
+        {
+            "key": "WalkArea",
+            "value": "{\"x\":6.0,\"y\":1.7999999523162842,\"z\":5.0}"
+        },
+        {
+            "key": "SensorAngle",
+            "value": "{\"value\":45.0}"
+        },
+        {
+            "key": "IdleTIme",
+            "value": "{\"value\":2.0}"
+        },
+        {
+            "key": "CurveRemapY",
+            "value": "{\"x\":0.20000000298023225,\"y\":0.800000011920929,\"z\":-1.0,\"w\":1.0}"
+        },
+        {
+            "key": "CurveRemapZ",
+            "value": "{\"x\":0.0,\"y\":1.0,\"z\":0.0,\"w\":0.0}"
+        },
+        {
+            "key": "Drag",
+            "value": "{\"value\":3.0}"
+        },
+        {
+            "key": "AngularDrag",
+            "value": "{\"value\":3.0}"
+        },
+        {
+            "key": "SpeedSmooth",
+            "value": "{\"value\":0.6000000238418579}"
+        },
+        {
+            "key": "Bounciness",
+            "value": "{\"value\":0.6000000238418579}"
+        },
+        {
+            "key": "StaticFriction",
+            "value": "{\"value\":0.20000000298023225}"
+        },
+        {
+            "key": "DynamicFriction",
+            "value": "{\"value\":0.6000000238418579}"
+        },
+        {
+            "key": "SpecialSize",
+            "value": "{\"x\":1.5,\"y\":1.5,\"z\":1.5}"
+        },
+        {
+            "key": "SizeRange",
+            "value": "{\"x\":0.800000011920929,\"y\":1.0}"
+        },
+        {
+            "key": "SpeedRange",
+            "value": "{\"x\":0.0,\"y\":2.0}"
+        },
+        {
+            "key": "NormalSize",
+            "value": "{\"x\":0.4000000059604645,\"y\":0.20000000298023225,\"z\":0.4000000059604645}"
+        },
+        {
+            "key": "PulsePower",
+            "value": "{\"value\":1500.0}"
+        },
+        {
+            "key": "PulseColor",
+            "value": "{\"r\":1.0,\"g\":0.0,\"b\":0.0,\"a\":1.0}"
+        },
+        {
+            "key": "PulseWarmUpT",
+            "value": "{\"value\":2.0}"
+        },
+        {
+            "key": "PulseRandom",
+            "value": "{\"x\":0.20000000298023225,\"y\":1.0}"
+        },
+        {
+            "key": "PulseCoolDownT",
+            "value": "{\"value\":3.0}"
+        },
+        {
+            "key": "TouchedScaleMultiplier",
+            "value": "{\"value\":2.5}"
+        },
+        {
+            "key": "MaxTouchedCount",
+            "value": "{\"value\":100}"
+        },
+        {
+            "key": "touchedThreshold",
+            "value": "{\"value\":0.8999999761581421}"
+        },
+        {
+            "key": "Lifetime",
+            "value": "{\"value\":2.0}"
+        },
+        {
+            "key": "ExplosionForce",
+            "value": "{\"value\":2000.0}"
+        },
+        {
+            "key": "ExplosionRadius",
+            "value": "{\"value\":3.0}"
+        },
+        {
+            "key": "PulseTriggerNum",
+            "value": "{\"value\":10}"
+        },
+        {
+            "key": "PulsePeriod",
+            "value": "{\"value\":120.0}"
+        },
+        {
+            "key": "SpeedThreshold",
+            "value": "{\"value\":1.0}"
+        },
+        {
+            "key": "Capsules_Size",
+            "value": "{\"x\":1.2000000476837159,\"y\":1.2000000476837159,\"z\":1.2000000476837159}"
+        },
+        {
+            "key": "Capsules_SizeRange",
+            "value": "{\"x\":0.4000000059604645,\"y\":1.0}"
+        },
+        {
+            "key": "Capsules_RotateAroundSpeed",
+            "value": "{\"x\":-0.0020000000949949028,\"y\":-0.019999999552965165}"
+        },
+        {
+            "key": "Capsules_RandomAroundRange",
+            "value": "{\"x\":0.6000000238418579,\"y\":1.0}"
+        },
+        {
+            "key": "Capsules_RotateSpeed",
+            "value": "{\"x\":1.0,\"y\":5.0}"
+        },
+        {
+            "key": "Capsules_RandomRange",
+            "value": "{\"x\":0.6000000238418579,\"y\":1.0}"
+        },
+        {
+            "key": "Capsules_HSV1",
+            "value": "{\"x\":0.550000011920929,\"y\":0.0,\"z\":0.0}"
+        },
+        {
+            "key": "Capsules_HSV2",
+            "value": "{\"x\":0.5999999642372131,\"y\":0.0,\"z\":0.0}"
+        },
+        {
+            "key": "Foams_Size",
+            "value": "{\"x\":0.4000000059604645,\"y\":0.20000000298023225,\"z\":0.4000000059604645}"
+        },
+        {
+            "key": "Foams_SizeRange",
+            "value": "{\"x\":0.800000011920929,\"y\":1.0}"
+        },
+        {
+            "key": "Foams_SpeedRange",
+            "value": "{\"x\":0.0,\"y\":2.0}"
+        },
+        {
+            "key": "Foams_Drag",
+            "value": "{\"value\":3.0}"
+        },
+        {
+            "key": "Foams_AngularDrag",
+            "value": "{\"value\":3.0}"
+        },
+        {
+            "key": "Foams_StaticFriction",
+            "value": "{\"value\":0.20000000298023225}"
+        },
+        {
+            "key": "Foams_DynamicFriction",
+            "value": "{\"value\":0.6000000238418579}"
+        },
+        {
+            "key": "Foams_Bounciness",
+            "value": "{\"value\":0.6000000238418579}"
+        },
+        {
+            "key": "Foams_SpeedSmooth",
+            "value": "{\"value\":0.6000000238418579}"
+        },
+        {
+            "key": "Capsules_Color1",
+            "value": "{\"r\":1.0,\"g\":1.0,\"b\":1.0,\"a\":1.0}"
+        },
+        {
+            "key": "Capsules_Color2",
+            "value": "{\"r\":0.9113072156906128,\"g\":0.061463259160518649,\"b\":0.061463259160518649,\"a\":1.0}"
         }
     ]
 }
