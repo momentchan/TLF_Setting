@@ -2,7 +2,7 @@
     "list": [
         {
             "key": "MaxTrackers",
-            "value": "{\"value\":20}"
+            "value": "{\"value\":10}"
         },
         {
             "key": "LeftBottom",
@@ -50,7 +50,7 @@
         },
         {
             "key": "InteractiveRange",
-            "value": "{\"value\":1.0}"
+            "value": "{\"value\":0.800000011920929}"
         },
         {
             "key": "TrackerDebug",
@@ -70,7 +70,7 @@
         },
         {
             "key": "ForcePower",
-            "value": "{\"value\":300.0}"
+            "value": "{\"value\":800.0}"
         },
         {
             "key": "ColorBlend",
@@ -82,7 +82,7 @@
         },
         {
             "key": "SensorAngle",
-            "value": "{\"value\":45.0}"
+            "value": "{\"value\":40.0}"
         },
         {
             "key": "IdleTIme",
@@ -137,28 +137,8 @@
             "value": "{\"x\":0.4000000059604645,\"y\":0.20000000298023225,\"z\":0.4000000059604645}"
         },
         {
-            "key": "PulsePower",
-            "value": "{\"value\":1500.0}"
-        },
-        {
-            "key": "PulseColor",
-            "value": "{\"r\":1.0,\"g\":0.0,\"b\":0.0,\"a\":1.0}"
-        },
-        {
-            "key": "PulseWarmUpT",
-            "value": "{\"value\":2.0}"
-        },
-        {
-            "key": "PulseRandom",
-            "value": "{\"x\":0.20000000298023225,\"y\":1.0}"
-        },
-        {
-            "key": "PulseCoolDownT",
-            "value": "{\"value\":3.0}"
-        },
-        {
             "key": "TouchedScaleMultiplier",
-            "value": "{\"value\":2.5}"
+            "value": "{\"value\":2.0}"
         },
         {
             "key": "MaxTouchedCount",
@@ -166,7 +146,7 @@
         },
         {
             "key": "touchedThreshold",
-            "value": "{\"value\":0.8999999761581421}"
+            "value": "{\"value\":0.949999988079071}"
         },
         {
             "key": "Lifetime",
@@ -178,15 +158,7 @@
         },
         {
             "key": "ExplosionRadius",
-            "value": "{\"value\":3.0}"
-        },
-        {
-            "key": "PulseTriggerNum",
-            "value": "{\"value\":10}"
-        },
-        {
-            "key": "PulsePeriod",
-            "value": "{\"value\":120.0}"
+            "value": "{\"value\":5.0}"
         },
         {
             "key": "SpeedThreshold",
@@ -206,7 +178,7 @@
         },
         {
             "key": "Capsules_RandomAroundRange",
-            "value": "{\"x\":0.6000000238418579,\"y\":1.0}"
+            "value": "{\"x\":30.0,\"y\":50.0}"
         },
         {
             "key": "Capsules_RotateSpeed",
@@ -214,7 +186,7 @@
         },
         {
             "key": "Capsules_RandomRange",
-            "value": "{\"x\":0.6000000238418579,\"y\":1.0}"
+            "value": "{\"x\":60.0,\"y\":100.0}"
         },
         {
             "key": "Capsules_HSV1",
@@ -267,6 +239,114 @@
         {
             "key": "Capsules_Color2",
             "value": "{\"r\":0.9113072156906128,\"g\":0.061463259160518649,\"b\":0.061463259160518649,\"a\":1.0}"
+        },
+        {
+            "key": "Gacha_Bounciness",
+            "value": "{\"value\":0.0}"
+        },
+        {
+            "key": "Gacha_StaticFriction",
+            "value": "{\"value\":0.0}"
+        },
+        {
+            "key": "Gacha_DynamicFriction",
+            "value": "{\"value\":0.0}"
+        },
+        {
+            "key": "Gacha_Drag",
+            "value": "{\"value\":3.0}"
+        },
+        {
+            "key": "Gacha_AngularDrag",
+            "value": "{\"value\":0.0}"
+        },
+        {
+            "key": "Gacha_Size",
+            "value": "{\"x\":1.0,\"y\":1.0,\"z\":1.0}"
+        },
+        {
+            "key": "Gacha_SizeRange",
+            "value": "{\"x\":0.6000000238418579,\"y\":1.0}"
+        },
+        {
+            "key": "Gacha_SpeedRange",
+            "value": "{\"x\":0.0,\"y\":2.0}"
+        },
+        {
+            "key": "Gacha_SpeedSmooth",
+            "value": "{\"value\":0.6000000238418579}"
+        },
+        {
+            "key": "DebugMode",
+            "value": "{\"value\":false}"
+        },
+        {
+            "key": "MockTrackerNum",
+            "value": "{\"value\":0}"
+        },
+        {
+            "key": "ExplodeDuration",
+            "value": "{\"value\":0.5}"
+        },
+        {
+            "key": "ExplodeEmissionIntensity",
+            "value": "{\"value\":2.0}"
+        },
+        {
+            "key": "Capsules_Decay",
+            "value": "{\"value\":0.9980000257492065}"
+        },
+        {
+            "key": "Capsules_MaxRotateSpeed",
+            "value": "{\"value\":0.10000000149011612}"
+        },
+        {
+            "key": "Capsules_WaveStrengthRange",
+            "value": "{\"x\":0.009999999776482582,\"y\":0.03500000014901161}"
+        },
+        {
+            "key": "WaveDuration",
+            "value": "{\"x\":3.0,\"y\":5.0}"
+        },
+        {
+            "key": "WaveStrength",
+            "value": "{\"value\":1200.0}"
+        },
+        {
+            "key": "WaveRandom",
+            "value": "{\"x\":0.20000000298023225,\"y\":1.0}"
+        },
+        {
+            "key": "PulseTriggerNum",
+            "value": "{\"value\":10}"
+        },
+        {
+            "key": "PulseWarmUpT",
+            "value": "{\"value\":2.0}"
+        },
+        {
+            "key": "PulseCoolDownT",
+            "value": "{\"value\":3.0}"
+        },
+        {
+            "key": "PulsePeriod",
+            "value": "{\"value\":120.0}"
+        },
+        {
+            "key": "WaveTriggerNum",
+            "value": "{\"value\":0}"
+        },
+        {
+            "key": "WaveWarmUpT",
+            "value": "{\"value\":2.0}"
+        },
+        {
+            "key": "WaveCoolDownT",
+            "value": "{\"value\":2.0}"
+        },
+        {
+            "key": "WavePeriod",
+            "value": "{\"value\":45.0}"
         }
     ]
 }

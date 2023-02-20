@@ -1,7 +1,7 @@
-Mono path[0] = 'C:/Users/User/Build/TLF/TLF_Data/Managed'
-Mono config path = 'C:/Users/User/Build/TLF/MonoBleedingEdge/etc'
+Mono path[0] = 'C:/BitoStudio/Build/TLF/TLF_Data/Managed'
+Mono config path = 'C:/BitoStudio/Build/TLF/MonoBleedingEdge/etc'
 Initialize engine version: 2021.3.14f1 (eee1884e7226)
-[Subsystems] Discovering subsystems at path C:/Users/User/Build/TLF/TLF_Data/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/BitoStudio/Build/TLF/TLF_Data/UnitySubsystems
 GfxDevice: creating device client; threaded=1; jobified=1
 d3d12: loaded!
 Direct3D:
@@ -12,53 +12,53 @@ Direct3D:
     App VRAM Budget: 23388 MB
     Driver:          31.0.15.2647
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.108 seconds
+- Completed reload, in  1.419 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 0.634500 ms
-0
+UnloadTime: 4.839200 ms
 Setting up 16 worker threads for Enlighten.
 NullReferenceException
   at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
-  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Clear () [0x0008c] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Dispose () [0x00000] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.<Dispose>g__DisposeProbeCameraPool|585_1 () [0x00000] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.Dispose (System.Boolean disposing) [0x0000b] in <9763d7c187464d70b9ea60a3551f4769>:0 
+  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Clear () [0x0008c] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Dispose () [0x00000] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.<Dispose>g__DisposeProbeCameraPool|585_1 () [0x00000] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.Dispose (System.Boolean disposing) [0x0000b] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
   at UnityEngine.Rendering.RenderPipeline.Dispose () [0x00001] in <f3c8c2cd984e42559705760d0ebf7326>:0 
   at UnityEngine.Rendering.RenderPipelineManager.CleanupRenderPipeline () [0x00022] in <f3c8c2cd984e42559705760d0ebf7326>:0 
   at UnityEngine.Rendering.RenderPipelineAsset.OnDisable () [0x00001] in <f3c8c2cd984e42559705760d0ebf7326>:0 
 
 NullReferenceException
   at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
-  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Clear () [0x0008c] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Dispose () [0x00000] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.<Dispose>g__DisposeProbeCameraPool|585_1 () [0x00000] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.Dispose (System.Boolean disposing) [0x0000b] in <9763d7c187464d70b9ea60a3551f4769>:0 
+  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Clear () [0x0008c] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Dispose () [0x00000] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.<Dispose>g__DisposeProbeCameraPool|585_1 () [0x00000] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.Dispose (System.Boolean disposing) [0x0000b] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
   at UnityEngine.Rendering.RenderPipeline.Dispose () [0x00001] in <f3c8c2cd984e42559705760d0ebf7326>:0 
   at UnityEngine.Rendering.RenderPipelineManager.CleanupRenderPipeline () [0x00022] in <f3c8c2cd984e42559705760d0ebf7326>:0 
   at UnityEngine.Rendering.RenderPipelineAsset.OnDisable () [0x00001] in <f3c8c2cd984e42559705760d0ebf7326>:0 
 
 NullReferenceException
   at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
-  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Clear () [0x0008c] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Dispose () [0x00000] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.<Dispose>g__DisposeProbeCameraPool|585_1 () [0x00000] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.Dispose (System.Boolean disposing) [0x0000b] in <9763d7c187464d70b9ea60a3551f4769>:0 
+  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Clear () [0x0008c] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Dispose () [0x00000] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.<Dispose>g__DisposeProbeCameraPool|585_1 () [0x00000] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.Dispose (System.Boolean disposing) [0x0000b] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
   at UnityEngine.Rendering.RenderPipeline.Dispose () [0x00001] in <f3c8c2cd984e42559705760d0ebf7326>:0 
   at UnityEngine.Rendering.RenderPipelineManager.CleanupRenderPipeline () [0x00022] in <f3c8c2cd984e42559705760d0ebf7326>:0 
   at UnityEngine.Rendering.RenderPipelineAsset.OnDisable () [0x00001] in <f3c8c2cd984e42559705760d0ebf7326>:0 
 
 NullReferenceException
   at (wrapper managed-to-native) UnityEngine.Component.get_gameObject(UnityEngine.Component)
-  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Clear () [0x0008c] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Dispose () [0x00000] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.<Dispose>g__DisposeProbeCameraPool|585_1 () [0x00000] in <9763d7c187464d70b9ea60a3551f4769>:0 
-  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.Dispose (System.Boolean disposing) [0x0000b] in <9763d7c187464d70b9ea60a3551f4769>:0 
+  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Clear () [0x0008c] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.ProbeCameraCache`1[K].Dispose () [0x00000] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.<Dispose>g__DisposeProbeCameraPool|585_1 () [0x00000] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
+  at UnityEngine.Rendering.HighDefinition.HDRenderPipeline.Dispose (System.Boolean disposing) [0x0000b] in <f3da07ca7b514e2db0733e8e50269fd8>:0 
   at UnityEngine.Rendering.RenderPipeline.Dispose () [0x00001] in <f3c8c2cd984e42559705760d0ebf7326>:0 
   at UnityEngine.Rendering.RenderPipelineManager.CleanupRenderPipeline () [0x00022] in <f3c8c2cd984e42559705760d0ebf7326>:0 
   at UnityEngine.Rendering.RenderPipelineAsset.OnDisable () [0x00001] in <f3c8c2cd984e42559705760d0ebf7326>:0 
 
+GarbageCollector disposing of ComputeBuffer. Please use ComputeBuffer.Release() or .Dispose() to manually release the buffer.
 GarbageCollector disposing of ComputeBuffer. Please use ComputeBuffer.Release() or .Dispose() to manually release the buffer.
 GarbageCollector disposing of ComputeBuffer. Please use ComputeBuffer.Release() or .Dispose() to manually release the buffer.
 GarbageCollector disposing of ComputeBuffer. Please use ComputeBuffer.Release() or .Dispose() to manually release the buffer.
